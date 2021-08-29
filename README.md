@@ -26,3 +26,6 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   
 </div>
+
+![Snake animation](https://github.com/MatheusSanchez/MatheusSanchez/blob/output/github-contribution-grid-snake.svg)
+
