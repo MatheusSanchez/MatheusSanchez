@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/sanchezmatheus"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/theusudo98"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusSanchez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusSanchez&include_all_commits=true&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSanchez&layout=compact&langs_count=7&theme=dark"/>
 </div>
    
